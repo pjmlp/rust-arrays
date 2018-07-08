@@ -1,0 +1,6 @@
+[package]
+name = "rust-arrays"
+version = "0.1.0"
+authors = ["pjmlp <pjmlp@progtools.org>"]
+
+[dependencies]
