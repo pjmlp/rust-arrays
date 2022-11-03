@@ -9,3 +9,5 @@ Just make use of `cargo build` just like all Rust projects.
 # Testing
 
 The testdata directory contains the test files provided by the exercise.
+
+Execute it like `cargo run < testdata/input.txt`
